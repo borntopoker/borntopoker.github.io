@@ -718,7 +718,7 @@ nav ul li a:hover {
 }
 
 .pace .pace-progress {
-  background: #174157;
+  background: white;
   position: fixed;
   z-index: 2000;
   top: 0;
